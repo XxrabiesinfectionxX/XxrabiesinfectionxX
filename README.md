@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="[https://pictureurl.com/api/storage/file?key=u%2Fanon%2Fc74b496c-1cb1-4437-b555-8ce7270e15f9-New_Project_3_D66C9B9.gif](https://kommodo.ai/i/sTzsYdFy0j30l5PFWaIX)" width="900">
+  <img src="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F8d66a376-cbc9-48a9-b193-79f113b699d5-7c0263a1abe7694b75a316c46c6674b8.jpg" width="900">
 </p>
