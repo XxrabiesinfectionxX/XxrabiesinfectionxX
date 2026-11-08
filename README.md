@@ -27,6 +27,9 @@ ig i'll let you. if you're gonna take inspo or copy my layout... credit me pls
 <img src="https://api.visitorbadge.io/api/visitors?path=XxrabiesinfectionxX&label=%E2%9C%BF&labelColor=%23ffd6e3&countColor=%23d94876&style=flat-square" alt="Visitor badge">
 </p>
     <br>
-    
+    <p align="center">
+    <img src="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F7d5d356c-4164-4dfa-b89b-e0c68e1045a7-IMG_1503.PNG" width="230">
+    </p>
+     <br>
   </th>
 </table>
