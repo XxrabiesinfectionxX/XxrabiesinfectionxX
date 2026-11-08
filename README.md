@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://cdn.imageurlgenerator.com/uploads/5e1cafcb-5c3d-4c6d-a7e8-ea64964e625b.gif" width="900">
+  <img src="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F918950bc-8d5e-42fd-bbab-17b977775315-Untitled258_20261108165541.webp" width="900">
 </p>
