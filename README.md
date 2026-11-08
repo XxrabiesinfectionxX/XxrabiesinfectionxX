@@ -10,5 +10,9 @@ ig i'll let you. if you're gonna take inspo or copy my layout... credit me pls
 
 
 <p align="center">
-  <img src="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F369d60fd-77c6-4607-bfaa-186dc60334d9-Untitled258_20261108173226.webp" width="900">
+  <img src="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F00e58538-e4dc-4ac5-95a6-9d3d1ded3ee5-New_Project_7_779A6C2.gif" width="900">
 </p>
+
+
+
+
